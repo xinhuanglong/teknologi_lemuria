@@ -7,3 +7,4 @@
 7. membuat panas dengan teknologi
 8. pembuat gempa dan anti gempa
 9. pengirit bahan bakar dengan teknologi langit
+10. menggunakan crystal secara intensif dalam kehidupan mereka
