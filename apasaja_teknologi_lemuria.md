@@ -5,4 +5,5 @@
 5. merubah awan - memindahkan awan dengan elektromagnetik
 6. membuat hujan dengan teknologi
 7. membuat panas dengan teknologi
-8. 
+8. pembuat gempa dan anti gempa
+9. pengirit bahan bakar dengan teknologi langit
